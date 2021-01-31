@@ -20,7 +20,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartDisease", "HeartDiseas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeScanner.Android", "QRCodeScanner\QRCodeScanner.Android\QRCodeScanner.Android.csproj", "{1FBC9B16-69D2-4DE4-B738-8F14D504D583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeScanner", "QRCodeScanner\QRCodeScanner\QRCodeScanner.csproj", "{AF7EE02E-6875-4605-A087-E3E9121B5E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCodeScanner", "QRCodeScanner\QRCodeScanner\QRCodeScanner.csproj", "{AF7EE02E-6875-4605-A087-E3E9121B5E2C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlmostHuman1", "..\AlmostHuman1\AlmostHuman1\AlmostHuman1.vbproj", "{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Singularity", "..\Singularity\Singularity\Singularity.vbproj", "{492A22EB-020B-4E25-9115-4F1E18EA61DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,6 +86,22 @@ Global
 		{AF7EE02E-6875-4605-A087-E3E9121B5E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF7EE02E-6875-4605-A087-E3E9121B5E2C}.Release|x64.ActiveCfg = Release|Any CPU
 		{AF7EE02E-6875-4605-A087-E3E9121B5E2C}.Release|x64.Build.0 = Release|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Debug|x64.Build.0 = Debug|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Release|x64.ActiveCfg = Release|Any CPU
+		{5A71DAD8-2FE7-4DAB-B713-C0FB0B5C776E}.Release|x64.Build.0 = Release|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{492A22EB-020B-4E25-9115-4F1E18EA61DE}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
